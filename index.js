@@ -1,1 +1,0 @@
-const nomor = 1
